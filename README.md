@@ -581,7 +581,7 @@ std::vector<float> JacobiKokkos(
 |**REF**|**REF**|**0.2679**|**-**|
 |3822B1FI1|chistov_alexey|0.3202|2|
 |3822B1FI1|beskhmelnova_kseniya|0.3214|1|
-|3822B1FI3|kolodkin_grigorii|RUN FAILED|-|
+|3822B1FI3|kolodkin_grigorii|0.3787|1|
 
 # Tasks Done
 ## 3822B1FI1
@@ -602,13 +602,13 @@ Passed: 2
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
 |3822B1FI3|frolova_elizaveta|5/9|309|
-|3822B1FI3|kolodkin_grigorii|8/9|506|
+|3822B1FI3|kolodkin_grigorii|**9/9**|**570**|
 |3822B1FI3|lopatin_ilya|2/9|125|
 |3822B1FI3|sozonov_ilya|1/9|60|
 
-Passed: 0
+Passed: 1
 
-**Total Passed: 2**
+**Total Passed: 3**
 
 ---
 *Maximum Score: 576 (64 per task)*
