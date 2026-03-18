@@ -579,6 +579,7 @@ std::vector<float> JacobiKokkos(
 ## 7_mkl_gemm_oneapi (3072 elements)
 |Group|Name|Result|Rank|
 |-----|----|------|----|
+|3822B1FI1|rezantseva_anastasia|0.4031|4|
 |3822B1FI1|beskhmelnova_kseniya|0.4091|2|
 |3822B1FI1|solovev_alexey|0.4340|3|
 |3822B1FI1|chistov_alexey|0.4392|1|
@@ -592,6 +593,7 @@ std::vector<float> JacobiKokkos(
 |-----|----|------|----|
 |3822B1FI1|solovev_alexey|0.0006|3|
 |3822B1FI1|chistov_alexey|0.0009|1|
+|3822B1FI1|rezantseva_anastasia|0.0010|5|
 |3822B1FI1|beskhmelnova_kseniya|0.0011|2|
 |**REF**|**REF**|**0.3629**|**-**|
 |3822B1FI3|kolodkin_grigorii|2.3206|1|
@@ -603,6 +605,7 @@ std::vector<float> JacobiKokkos(
 |**REF**|**REF**|**0.2679**|**-**|
 |3822B1FI1|chistov_alexey|0.3202|2|
 |3822B1FI1|beskhmelnova_kseniya|0.3214|1|
+|3822B1FI1|rezantseva_anastasia|0.3360|4|
 |3822B1FI3|kolodkin_grigorii|0.3787|1|
 |3822B1FI1|solovev_alexey|0.3892|3|
 |3822B1FI1|shulpin_ilya|BUILD FAILED|-|
@@ -611,16 +614,16 @@ std::vector<float> JacobiKokkos(
 ## 3822B1FI1
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3822B1FI1|beskhmelnova_kseniya|**9/9**|**546**|
-|3822B1FI1|chistov_alexey|**9/9**|**552**|
+|3822B1FI1|beskhmelnova_kseniya|**9/9**|**544**|
+|3822B1FI1|chistov_alexey|**9/9**|**551**|
 |3822B1FI1|drozhdinov_dmitriy|6/9|341|
 |3822B1FI1|kabalova_valeria|2/9|117|
-|3822B1FI1|rezantseva_anastasia|6/9|349|
-|3822B1FI1|shulpin_ilya|3/9|164|
+|3822B1FI1|rezantseva_anastasia|**9/9**|**527**|
+|3822B1FI1|shulpin_ilya|3/9|163|
 |3822B1FI1|shurigin_sergey|6/9|344|
-|3822B1FI1|solovev_alexey|**9/9**|**531**|
+|3822B1FI1|solovev_alexey|**9/9**|**529**|
 
-Passed: 3
+Passed: 4
 
 ## 3822B1FI2
 |Group|Name|Passed|Score|
@@ -641,7 +644,7 @@ Passed: 0
 
 Passed: 1
 
-**Total Passed: 4**
+**Total Passed: 5**
 
 ---
 *Maximum Score: 576 (64 per task)*
