@@ -640,6 +640,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|chistov_alexey|0.4392|1|
 |**REF**|**REF**|**0.4392**|**-**|
 |3822B1FI3|kolodkin_grigorii|0.4450|1|
+|3822B1FI3|chizhov_maxim|0.4465|7|
 |3822B1FI3|frolova_elizaveta|0.4468|2|
 |3822B1FI3|kholin_kirill|0.4514|6|
 |3822B1FI1|ionova_ekaterina|0.4525|8|
@@ -714,13 +715,13 @@ Passed: 2
 ## 3822B1FI3
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3822B1FI3|chizhov_maxim|6/9|328|
+|3822B1FI3|chizhov_maxim|7/9|383|
 |3822B1FI3|ekaterina_kozlova|6/9|347|
-|3822B1FI3|frolova_elizaveta|**9/9**|**540**|
-|3822B1FI3|kholin_kirill|**9/9**|**520**|
+|3822B1FI3|frolova_elizaveta|**9/9**|**539**|
+|3822B1FI3|kholin_kirill|**9/9**|**519**|
 |3822B1FI3|kolodkin_grigorii|**9/9**|**545**|
 |3822B1FI3|lopatin_ilya|**9/9**|**545**|
-|3822B1FI3|lysov_ivan|7/9|398|
+|3822B1FI3|lysov_ivan|7/9|397|
 |3822B1FI3|sozonov_ilya|1/9|57|
 
 Passed: 4
