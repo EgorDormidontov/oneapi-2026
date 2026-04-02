@@ -1,5 +1,4 @@
 #include "block_gemm_oneapi.h"
-#include <cmath>
 
 std::vector<float> GemmBlockONEAPI(
         const std::vector<float>& a, const std::vector<float>& b,
@@ -50,7 +49,7 @@ std::vector<float> GemmBlockONEAPI(
                 
             }
         );
-    }).whait();
+    }).wait();
     
     compute_queue.memcpy(result_matrix.data(), device_matrix_c, total_elements * sizeof(float)).wait();
 
