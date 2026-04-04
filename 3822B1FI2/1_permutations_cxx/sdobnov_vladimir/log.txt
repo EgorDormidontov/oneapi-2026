@@ -1,4 +1,0 @@
-/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/1_permutations_cxx/sdobnov_vladimir/permutations_cxx.cpp: In function ‘void Permutations(dictionary_t&)’:
-/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/1_permutations_cxx/sdobnov_vladimir/permutations_cxx.cpp:12:28: error: ‘make_key’ was not declared in this scope
-   12 |                 auto key = make_key(word);
-      |                            ^~~~~~~~
