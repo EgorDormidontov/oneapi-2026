@@ -592,6 +592,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|rezantseva_anastasia|0.1838|6|
 |3822B1FI1|ivanov_mikhail|0.2061|11|
 |3822B1FI1|ionova_ekaterina|0.2077|9|
+|3822B1FI1|grudzin_konstantin|0.2145|12|
 |3822B1FI1|shulpin_ilya|0.2275|8|
 |3822B1FI1|mironov_arseniy|0.2564|7|
 |**REF**|**REF**|**0.2701**|**-**|
@@ -637,6 +638,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI3|kudryashova_irina|0.2831|8|
 |3822B1FI3|lysov_ivan|0.2910|4|
 |3822B1FI2|plekhanov_daniil|0.2913|5|
+|3822B1FI1|grudzin_konstantin|0.3026|12|
 |3822B1FI3|kholin_kirill|0.3080|5|
 |3822B1FI1|drozhdinov_dmitriy|0.3305|4|
 |3822B1FI1|solovev_alexey|0.3317|3|
@@ -680,6 +682,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI3|kolodkin_grigorii|2.1427|1|
 |3822B1FI2|vyunov_danila|3.1434|7|
 |3822B1FI1|shulpin_ilya|3.5330|7|
+|3822B1FI1|grudzin_konstantin|BUILD FAILED|-|
 
 ## 7_mkl_gemm_oneapi (3072 elements)
 |Group|Name|Result|Rank|
@@ -771,19 +774,19 @@ std::vector<float> JacobiKokkos(
 ## 3822B1FI1
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3822B1FI1|beskhmelnova_kseniya|**9/9**|**517**|
-|3822B1FI1|chistov_alexey|**9/9**|**524**|
-|3822B1FI1|drozhdinov_dmitriy|**9/9**|**475**|
-|3822B1FI1|grudzin_konstantin|3/9|148|
+|3822B1FI1|beskhmelnova_kseniya|**9/9**|**515**|
+|3822B1FI1|chistov_alexey|**9/9**|**523**|
+|3822B1FI1|drozhdinov_dmitriy|**9/9**|**473**|
+|3822B1FI1|grudzin_konstantin|5/9|244|
 |3822B1FI1|ionova_ekaterina|**9/9**|**462**|
 |3822B1FI1|ivanov_mikhail|6/9|291|
 |3822B1FI1|kabalova_valeria|2/9|110|
-|3822B1FI1|kurakin_matvey|**9/9**|**444**|
-|3822B1FI1|mironov_arseniy|**9/9**|**456**|
+|3822B1FI1|kurakin_matvey|**9/9**|**442**|
+|3822B1FI1|mironov_arseniy|**9/9**|**455**|
 |3822B1FI1|rezantseva_anastasia|**9/9**|**507**|
-|3822B1FI1|shulpin_ilya|**9/9**|**477**|
-|3822B1FI1|shurigin_sergey|**9/9**|**481**|
-|3822B1FI1|solovev_alexey|**9/9**|**497**|
+|3822B1FI1|shulpin_ilya|**9/9**|**476**|
+|3822B1FI1|shurigin_sergey|**9/9**|**480**|
+|3822B1FI1|solovev_alexey|**9/9**|**495**|
 |3822B1FI1|suvorov_dmitrii|2/9|104|
 |3822B1FI1|vershinina_olga|1/9|41|
 
