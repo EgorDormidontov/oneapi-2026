@@ -495,6 +495,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|rezantseva_anastasia|0.1600|7|
 |3822B1FI1|drozhdinov_dmitriy|0.1613|3|
 |3822B1FI3|ekaterina_kozlova|0.1614|8|
+|3822B1FI1|vershinina_olga|0.1746|15|
 |3822B1FI2|sdobnov_vladimir|0.1834|5|
 |3822B1FI3|kholin_kirill|0.1891|5|
 |3822B1FI3|frolova_elizaveta|0.1951|4|
@@ -774,16 +775,17 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|chistov_alexey|**9/9**|**524**|
 |3822B1FI1|drozhdinov_dmitriy|**9/9**|**475**|
 |3822B1FI1|grudzin_konstantin|3/9|148|
-|3822B1FI1|ionova_ekaterina|**9/9**|**463**|
+|3822B1FI1|ionova_ekaterina|**9/9**|**462**|
 |3822B1FI1|ivanov_mikhail|6/9|291|
-|3822B1FI1|kabalova_valeria|2/9|111|
+|3822B1FI1|kabalova_valeria|2/9|110|
 |3822B1FI1|kurakin_matvey|**9/9**|**444**|
-|3822B1FI1|mironov_arseniy|**9/9**|**457**|
+|3822B1FI1|mironov_arseniy|**9/9**|**456**|
 |3822B1FI1|rezantseva_anastasia|**9/9**|**507**|
 |3822B1FI1|shulpin_ilya|**9/9**|**477**|
-|3822B1FI1|shurigin_sergey|**9/9**|**482**|
-|3822B1FI1|solovev_alexey|**9/9**|**498**|
+|3822B1FI1|shurigin_sergey|**9/9**|**481**|
+|3822B1FI1|solovev_alexey|**9/9**|**497**|
 |3822B1FI1|suvorov_dmitrii|2/9|104|
+|3822B1FI1|vershinina_olga|1/9|41|
 
 Passed: 10
 
