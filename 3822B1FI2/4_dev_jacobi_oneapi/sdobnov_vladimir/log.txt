@@ -1,0 +1,258 @@
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.cpp:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+In file included from /home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:1:10: error: #include nested too deeply
+    1 | #include "dev_jacobi_oneapi.h"
+      |          ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:3:10: error: #include nested too deeply
+    3 | #include <cmath>
+      |          ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:5:1: error: use of undeclared identifier 'std'
+    5 | std::vector<float> JacobiDevONEAPI(
+      | ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:6:8: error: use of undeclared identifier 'std'
+    6 |         const std::vector<float>& a,
+      |               ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:7:8: error: use of undeclared identifier 'std'
+    7 |         const std::vector<float>& b,
+      |               ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:9:2: error: use of undeclared identifier 'sycl'
+    9 |         sycl::device device
+      |         ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:13:2: error: use of undeclared identifier 'sycl'
+   13 |         sycl::queue q(device);
+      |         ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:15:17: error: use of undeclared identifier 'sycl'
+   15 |         float* a_dev = sycl::malloc_device<float>(n * n, q);
+      |                        ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:15:42: error: expected '(' for function-style cast or type construction
+   15 |         float* a_dev = sycl::malloc_device<float>(n * n, q);
+      |                                            ~~~~~^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:15:51: error: use of undeclared identifier 'q'
+   15 |         float* a_dev = sycl::malloc_device<float>(n * n, q);
+      |                                                          ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:16:17: error: use of undeclared identifier 'sycl'
+   16 |         float* b_dev = sycl::malloc_device<float>(n, q);
+      |                        ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:16:42: error: expected '(' for function-style cast or type construction
+   16 |         float* b_dev = sycl::malloc_device<float>(n, q);
+      |                                            ~~~~~^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:16:47: error: use of undeclared identifier 'q'
+   16 |         float* b_dev = sycl::malloc_device<float>(n, q);
+      |                                                      ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:17:17: error: use of undeclared identifier 'sycl'
+   17 |         float* x_dev = sycl::malloc_device<float>(n, q);
+      |                        ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:17:42: error: expected '(' for function-style cast or type construction
+   17 |         float* x_dev = sycl::malloc_device<float>(n, q);
+      |                                            ~~~~~^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:17:47: error: use of undeclared identifier 'q'
+   17 |         float* x_dev = sycl::malloc_device<float>(n, q);
+      |                                                      ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:18:21: error: use of undeclared identifier 'sycl'
+   18 |         float* x_new_dev = sycl::malloc_device<float>(n, q);
+      |                            ^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:18:46: error: expected '(' for function-style cast or type construction
+   18 |         float* x_new_dev = sycl::malloc_device<float>(n, q);
+      |                                                ~~~~~^
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI2/4_dev_jacobi_oneapi/sdobnov_vladimir/dev_jacobi_oneapi.h:18:51: error: use of undeclared identifier 'q'
+   18 |         float* x_new_dev = sycl::malloc_device<float>(n, q);
+      |                                                          ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
