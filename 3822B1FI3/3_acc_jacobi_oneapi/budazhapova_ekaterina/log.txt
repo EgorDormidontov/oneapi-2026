@@ -1,0 +1,39 @@
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:13:34: warning: parentheses were disambiguated as a function declaration [-Wvexing-parse]
+   13 |     sycl::buffer<float> buf_x_old(sycl::range<1>(N));
+      |                                  ^~~~~~~~~~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:13:35: note: add a pair of parentheses to declare a variable
+   13 |     sycl::buffer<float> buf_x_old(sycl::range<1>(N));
+      |                                   ^                
+      |                                   (                )
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:14:34: warning: parentheses were disambiguated as a function declaration [-Wvexing-parse]
+   14 |     sycl::buffer<float> buf_x_new(sycl::range<1>(N));
+      |                                  ^~~~~~~~~~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:14:35: note: add a pair of parentheses to declare a variable
+   14 |     sycl::buffer<float> buf_x_new(sycl::range<1>(N));
+      |                                   ^                
+      |                                   (                )
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:17:31: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   17 |         auto x_old = buf_x_old.get_access<sycl::access::mode::write>(h);
+      |                      ~~~~~~~~~^~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:28:35: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   28 |             auto x_old = buf_x_old.get_access<sycl::access::mode::read>(h);
+      |                          ~~~~~~~~~^~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:29:35: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   29 |             auto x_new = buf_x_new.get_access<sycl::access::mode::write>(h);
+      |                          ~~~~~~~~~^~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:42:36: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   42 |         auto x_old_host = buf_x_old.get_host_access();
+      |                           ~~~~~~~~~^~~~~~~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:43:36: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   43 |         auto x_new_host = buf_x_new.get_host_access();
+      |                           ~~~~~~~~~^~~~~~~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:52:35: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   52 |             auto x_old = buf_x_old.get_access<sycl::access::mode::write>(h);
+      |                          ~~~~~~~~~^~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:53:35: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   53 |             auto x_new = buf_x_new.get_access<sycl::access::mode::read>(h);
+      |                          ~~~~~~~~~^~~~~~~~~~~
+/home/crazyproger/sandbox/oneapi-2026/3822B1FI3/3_acc_jacobi_oneapi/budazhapova_ekaterina/acc_jacobi_oneapi.cpp:61:29: error: member reference base type 'sycl::buffer<float> (sycl::range<1>)' is not a structure or union
+   61 |     auto res_acc = buf_x_new.get_host_access();
+      |                    ~~~~~~~~~^~~~~~~~~~~~~~~~
+2 warnings and 8 errors generated.

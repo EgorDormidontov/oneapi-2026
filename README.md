@@ -488,6 +488,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|beskhmelnova_kseniya|0.0844|6|
 |3822B1FI1|kuznetsov_mikhail|0.1073|16|
 |3822B1FI1|grudzin_konstantin|0.1183|11|
+|3822B1FI3|budazhapova_ekaterina|0.1190|12|
 |3822B1FI2|vyunov_danila|0.1202|8|
 |3822B1FI2|vyunova_ekaterina|0.1272|7|
 |3822B1FI2|dormidontov_egor|0.1420|9|
@@ -559,6 +560,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|ivanov_mikhail|1.0049|14|
 |3822B1FI1|kurakin_matvey|1.0185|12|
 |3822B1FI1|shulpin_ilya|1.0230|8|
+|3822B1FI3|budazhapova_ekaterina|BUILD FAILED|-|
 
 ## 3_acc_jacobi_oneapi (4096 elements)
 |Group|Name|Result|Rank|
@@ -600,6 +602,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|kuznetsov_mikhail|BUILD FAILED|-|
 |3822B1FI2|guseynov_emil|TOO SLOW|-|
 |3822B1FI2|vyunova_ekaterina|BUILD FAILED|-|
+|3822B1FI3|budazhapova_ekaterina|BUILD FAILED|-|
 
 ## 4_dev_jacobi_oneapi (4096 elements)
 |Group|Name|Result|Rank|
@@ -618,6 +621,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI3|kudryashova_irina|0.2747|8|
 |3822B1FI2|plekhanov_daniil|0.2802|4|
 |3822B1FI2|bessonov_egor|0.2818|1|
+|3822B1FI3|budazhapova_ekaterina|0.2853|12|
 |3822B1FI1|solovev_alexey|0.2909|3|
 |3822B1FI1|shurigin_sergey|0.2945|5|
 |3822B1FI1|kuznetsov_mikhail|0.3006|13|
@@ -657,6 +661,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI2|bessonov_egor|0.2362|1|
 |3822B1FI1|mironov_arseniy|0.2412|9|
 |3822B1FI2|khokhlov_andrey|0.2464|3|
+|3822B1FI3|budazhapova_ekaterina|0.2531|12|
 |3822B1FI3|chizhov_maxim|0.2533|6|
 |**REF**|**REF**|**0.2633**|**-**|
 |3822B1FI2|guseynov_emil|0.2649|4|
@@ -720,6 +725,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|ionova_ekaterina|0.9200|8|
 |3822B1FI3|kudryashova_irina|0.9253|8|
 |3822B1FI3|lysov_ivan|0.9502|6|
+|3822B1FI3|budazhapova_ekaterina|1.0220|12|
 |3822B1FI3|kolodkin_grigorii|2.1427|1|
 |3822B1FI2|vyunov_danila|3.1434|7|
 |3822B1FI1|shulpin_ilya|3.5330|7|
@@ -762,6 +768,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI1|ionova_ekaterina|0.4525|8|
 |3822B1FI3|lysov_ivan|0.4583|5|
 |3822B1FI3|shmidt_olga|TEST FAILED|-|
+|3822B1FI3|budazhapova_ekaterina|BUILD FAILED|-|
 |3822B1FI1|vershinina_olga|RUN FAILED|-|
 
 ## 8_integral_kokkos (65536 elements)
@@ -792,6 +799,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI2|dormidontov_egor|2.3228|9|
 |3822B1FI1|drozhdinov_dmitriy|2.3230|7|
 |3822B1FI2|bessonov_egor|2.3230|2|
+|3822B1FI3|budazhapova_ekaterina|2.9761|11|
 |3822B1FI1|shulpin_ilya|2.9876|4|
 |3822B1FI3|koshkin_nikita|2.9971|10|
 |3822B1FI2|vyunova_ekaterina|2.9971|6|
@@ -817,6 +825,7 @@ std::vector<float> JacobiKokkos(
 |3822B1FI2|khokhlov_andrey|0.2865|3|
 |3822B1FI2|dormidontov_egor|0.2895|8|
 |3822B1FI3|koshkin_nikita|0.2975|8|
+|3822B1FI3|budazhapova_ekaterina|0.2980|9|
 |3822B1FI1|mironov_arseniy|0.2993|10|
 |3822B1FI1|grudzin_konstantin|0.3034|14|
 |3822B1FI3|lysov_ivan|0.3043|7|
@@ -885,17 +894,18 @@ Passed: 6
 ## 3822B1FI3
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3822B1FI3|chizhov_maxim|**9/9**|**469**|
-|3822B1FI3|ekaterina_kozlova|**9/9**|**494**|
-|3822B1FI3|frolova_elizaveta|**9/9**|**511**|
-|3822B1FI3|kholin_kirill|**9/9**|**490**|
-|3822B1FI3|kolodkin_grigorii|**9/9**|**514**|
-|3822B1FI3|koshkin_nikita|**9/9**|**456**|
-|3822B1FI3|kudryashova_irina|8/9|431|
-|3822B1FI3|lopatin_ilya|**9/9**|**517**|
-|3822B1FI3|lysov_ivan|**9/9**|**489**|
+|3822B1FI3|budazhapova_ekaterina|6/9|294|
+|3822B1FI3|chizhov_maxim|**9/9**|**465**|
+|3822B1FI3|ekaterina_kozlova|**9/9**|**490**|
+|3822B1FI3|frolova_elizaveta|**9/9**|**507**|
+|3822B1FI3|kholin_kirill|**9/9**|**486**|
+|3822B1FI3|kolodkin_grigorii|**9/9**|**509**|
+|3822B1FI3|koshkin_nikita|**9/9**|**453**|
+|3822B1FI3|kudryashova_irina|8/9|430|
+|3822B1FI3|lopatin_ilya|**9/9**|**513**|
+|3822B1FI3|lysov_ivan|**9/9**|**485**|
 |3822B1FI3|shmidt_olga|6/9|314|
-|3822B1FI3|sozonov_ilya|8/9|435|
+|3822B1FI3|sozonov_ilya|8/9|434|
 
 Passed: 8
 
